@@ -2,45 +2,39 @@
     "products":[
         {
             "id":1,
-            "image":"",
-            "title":"",
-            "description":"",
-            "price":""
+            "image":"https://i.postimg.cc/nVv1XKwn/Grand-Seiko-Spring-Drive.webp",
+            "title":"Grand Seiko Spring Drive",
+            "price":85243
         },
         {
             "id":2,
-            "image":"",
-            "title":"",
-            "description":"",
-            "price":""
+            "image":"https://i.postimg.cc/6qNLHTTs/timex-marlin-peanuts-grey.jpg",
+            "title":"Timex Marlin X Peanuts",
+            "price":3241
         },
         {
             "id":3,
-            "image":"",
-            "title":"",
-            "description":"",
-            "price":""
+            "image":"https://i.postimg.cc/dtwjr7zr/orient-maestro.webp",
+            "title":"Orient Maestro",
+            "price":4048
         },
         {
             "id":4,
-            "image":"",
-            "title":"",
-            "description":"",
-            "price":"" 
+            "image":"https://i.postimg.cc/SxLdH6CZ/51e4bbe3c11dcc70bfa3d76891c195c8522ed3bc-hender-scheme-x-g-shock-dw-5600hs-4jf-hero-3.webp",
+            "title":"G-Shock",
+            "price":2299
         },
         {
             "id":5,
-            "image":"",
-            "title":"",
-            "description":"",
-            "price":""   
+            "image":"https://i.postimg.cc/BbWNdMYV/A168-WG-9-WDF.jpg",
+            "title":"Casio",
+            "price":1649  
         },
         {
             "id":6,
-            "image":"",
-            "title":"",
-            "description":"",
-            "price":""  
+            "image":"https://i.postimg.cc/1Xc0bPN8/Seiko-5-SNXS79.jpg",
+            "title":"Seiko 5",
+            "price":2547  
         }
     ]
 }
